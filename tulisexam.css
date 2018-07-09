@@ -1,0 +1,35 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	}
+td 	{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	}
+
+th 	{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	}
+a 	{
+	text-decoration: none;
+	color: #000099;
+	}
+A:active { color:#000000; text-decoration; }
+A:hover { color:#000000; text-decoration: none; }
+
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
